@@ -48,7 +48,7 @@ Follow these steps for completing your project.
 
 ```js
 {
-  item: 'Learn about reducers',
+  item: 'Learn about reducers', 
   completed: false,
   id: 3892987589
 }
